@@ -23,9 +23,9 @@ Exemple de `config.json` utilisant les combinaisons **CTRL+ALT** :
 
 ```json
 {
-  "_info": "Raccourcis clavier pour jouer les sons",
-  "ctrl+alt+1": "sounds/son1.wav",
-  "ctrl+alt+2": "sounds/son2.wav"
+  "ctrl+alt+1": "sounds/son1.mp3",
+  "ctrl+alt+2": "sounds/son2.mp3",
+  "ctrl+alt+3": "sounds/son3.mp3"
 }
 ```
 
