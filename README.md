@@ -29,6 +29,7 @@ Exemple de `config.json` utilisant les combinaisons **CTRL+ALT** :
   "ctrl+alt+3": "sounds/son3.mp3"
 }
 ```
+Vous pouvez aussi utiliser la touche "shift", exemple : "shift+1" ou bien "ctrl+shift+1"
 
 Les fichiers audio doivent être placés dans :
 
