@@ -20,8 +20,8 @@ Le programme écoute les raccourcis définis dans `config.json`.
 
 ## Configuration
 
-Exemple de `config.json` utilisant les combinaisons **CTRL+ALT** 
-Vous pouvez aussi utiliser la touche **SHIFT**, exemple : **SHIFT+1** ou bien **CTRL+SHIFT+1** :
+Exemple de `config.json` utilisant les combinaisons **ctrl+alt**. 
+Vous pouvez aussi utiliser la touche **shift**, exemple : **shift+1** ou bien **ctrl+shift+1** :
 
 ```json
 {
