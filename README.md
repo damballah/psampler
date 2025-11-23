@@ -1,7 +1,8 @@
 # PSampler
 
 PSampler est un petit programme Python qui permet de jouer des sons avec des raccourcis clavier.
-Les sons sont définis dans `config.json` et doivent être placés dans le dossier `sounds/`.
+Les sons sont définis dans `config.json` et doivent être placés dans le dossier `sounds/`. 
+Il est fourni avec 74 sons de test (Sons du sampler de Thierry Ardisson, 3 blockbusters des année 80-90 et des bruitages divers)
 
 ## Installation
 
