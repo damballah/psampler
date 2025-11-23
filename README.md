@@ -57,40 +57,40 @@ sounds/
 
 ## Sons fournis : 
 ```
-sounds/Ardisson/BEN_HUR.mp3
-sounds/Ardisson/JINGLE_PUB.mp3
-sounds/Ardisson/MAGNETO_SERGE.mp3
-sounds/Ardisson/ON_NE_BOUGE_PAS_PENDANT_LE_JINGLE.mp3
-sounds/Ardisson/SACREE_SOIREE.mp3
-sounds/Ardisson/SILENCIEUX.mp3
-sounds/Ardisson/WITHIN_YOU.mp3
-sounds/Ardisson/RED_ALERT.mp3
-sounds/Ardisson/CABANIS.mp3
-sounds/Ardisson/20_TH_CENTURY.mp3
-sounds/Ghostbuster/ES_TU_UN_DIEU.mp3
-sounds/Ghostbuster/ON_EST_VENU_ON_L_A_VUE.mp3
-sounds/Ghostbuster/RACCOURCI_TON_RAYON.mp3
-sounds/Ghostbuster/RDV_SUR_L_AUTRE_RIVE.mp3
-sounds/Ghostbuster/SALAUD_QUI_M_A_ENGLUE.mp3
-sounds/Retour_vers_le_futur/BONNE_NUIT_VISITEUR_DU_FUTUR.mp3
-sounds/Retour_vers_le_futur/C_EST_TOI_QUI_L_A_FERRE_JE_DIS_MOI.mp3
-sounds/Retour_vers_le_futur/CIRCUIT_BRANCHE_CONVERTER_TEMPOREL.mp3
-sounds/Retour_vers_le_futur/JITSU_NE_DECOUVRIRA_JAMAIS_LE_POT_AU_ROSE.mp3
-sounds/Retour_vers_le_futur/PAR_TOUS_LES_PEPINS_DE_LA_POMME_DE_NEWTON.mp3
-sounds/Retour_vers_le_futur/T_ES_SOURD_MCFLAN.mp3
-sounds/Retour_vers_le_futur/TOUT_LE_MONDE_S_AMUSE.mp3
-sounds/Terminator/ALORS_QUI_S_EST_LA_MERDE.mp3
-sounds/Terminator/BELLE_SOIREE_POUR_UNE_BALADE.mp3
-sounds/Terminator/IL_S_APPELLE_JOHN_CONNOR.mp3
-sounds/Terminator/SUIS_MOI_SI_TU_NE_VEUX_PAS_MOURIR.mp3
-sounds/Terminator/TU_ES_LA_CIBLE_DU_TERMINATOR.mp3
-sounds/Bruitages/CHUCHOTTEMENT.mp3
-sounds/Bruitages/EPEE_FEND_L_AIR.mp3
-sounds/Bruitages/FANTOME.mp3
-sounds/Bruitages/HELICOPTERE_PASSAGE.mp3
-sounds/Bruitages/MODEM_56K.mp3
-sounds/Bruitages/PAQUEBOT.mp3
-sounds/Bruitages/PET_SOUPLE.mp3
-sounds/Bruitages/RADIO_GRESILLEMENT.mp3
-sounds/Bruitages/ZOMBIE.mp3
+  "ctrl+alt+0": "sounds/Ardisson/BEN_HUR.mp3",
+  "ctrl+alt+1": "sounds/Ardisson/JINGLE_PUB.mp3",
+  "ctrl+alt+2": "sounds/Ardisson/MAGNETO_SERGE.mp3",
+  "ctrl+alt+3": "sounds/Ardisson/ON_NE_BOUGE_PAS_PENDANT_LE_JINGLE.mp3",
+  "ctrl+alt+4": "sounds/Ardisson/SACREE_SOIREE.mp3",
+  "ctrl+alt+5": "sounds/Ardisson/SILENCIEUX.mp3",
+  "ctrl+alt+6": "sounds/Ardisson/WITHIN_YOU.mp3",
+  "ctrl+alt+7": "sounds/Ardisson/RED_ALERT.mp3",
+  "ctrl+alt+8": "sounds/Ardisson/CABANIS.mp3",
+  "ctrl+alt+9": "sounds/Ardisson/20_TH_CENTURY.mp3",
+  "ctrl+alt+a": "sounds/Ghostbuster/ES_TU_UN_DIEU.mp3",
+  "ctrl+alt+z": "sounds/Ghostbuster/ON_EST_VENU_ON_L_A_VUE.mp3",
+  "ctrl+alt+e": "sounds/Ghostbuster/RACCOURCI_TON_RAYON.mp3",
+  "ctrl+alt+r": "sounds/Ghostbuster/RDV_SUR_L_AUTRE_RIVE.mp3",
+  "ctrl+alt+t": "sounds/Ghostbuster/SALAUD_QUI_M_A_ENGLUE.mp3",
+  "ctrl+alt+y": "sounds/Retour_vers_le_futur/BONNE_NUIT_VISITEUR_DU_FUTUR.mp3",
+  "ctrl+alt+u": "sounds/Retour_vers_le_futur/C_EST_TOI_QUI_L_A_FERRE_JE_DIS_MOI.mp3",
+  "ctrl+alt+i": "sounds/Retour_vers_le_futur/CIRCUIT_BRANCHE_CONVERTER_TEMPOREL.mp3",
+  "ctrl+alt+o": "sounds/Retour_vers_le_futur/JITSU_NE_DECOUVRIRA_JAMAIS_LE_POT_AU_ROSE.mp3",
+  "ctrl+alt+p": "sounds/Retour_vers_le_futur/PAR_TOUS_LES_PEPINS_DE_LA_POMME_DE_NEWTON.mp3",
+  "ctrl+alt+q": "sounds/Retour_vers_le_futur/T_ES_SOURD_MCFLAN.mp3",
+  "ctrl+alt+s": "sounds/Retour_vers_le_futur/TOUT_LE_MONDE_S_AMUSE.mp3",
+  "ctrl+alt+d": "sounds/Terminator/ALORS_QUI_S_EST_LA_MERDE.mp3",
+  "ctrl+alt+f": "sounds/Terminator/BELLE_SOIREE_POUR_UNE_BALADE.mp3",
+  "ctrl+alt+g": "sounds/Terminator/IL_S_APPELLE_JOHN_CONNOR.mp3",
+  "ctrl+alt+h": "sounds/Terminator/SUIS_MOI_SI_TU_NE_VEUX_PAS_MOURIR.mp3",
+  "ctrl+alt+j": "sounds/Terminator/TU_ES_LA_CIBLE_DU_TERMINATOR.mp3",
+  "ctrl+alt+k": "sounds/Bruitages/CHUCHOTTEMENT.mp3",
+  "ctrl+alt+l": "sounds/Bruitages/EPEE_FEND_L_AIR.mp3",
+  "ctrl+alt+m": "sounds/Bruitages/FANTOME.mp3",
+  "ctrl+alt+w": "sounds/Bruitages/HELICOPTERE_PASSAGE.mp3",
+  "ctrl+alt+x": "sounds/Bruitages/MODEM_56K.mp3",
+  "ctrl+alt+c": "sounds/Bruitages/PAQUEBOT.mp3",
+  "ctrl+alt+v": "sounds/Bruitages/PET_SOUPLE.mp3",
+  "ctrl+alt+b": "sounds/Bruitages/RADIO_GRESILLEMENT.mp3",
+  "ctrl+alt+n": "sounds/Bruitages/ZOMBIE.mp3"
 ```
