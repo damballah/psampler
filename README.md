@@ -56,7 +56,7 @@ sounds/
 * pygame
 * keyboard
 
-## Sons prédéfinis dans le config.json de base : 
+## Sons prédéfinis dans le `config.json` de base : 
 ```
   Ctrl + Alt + 0  -->  sounds/Ardisson/BEN_HUR.mp3
   Ctrl + Alt + 1  -->  sounds/Ardisson/JINGLE_PUB.mp3
